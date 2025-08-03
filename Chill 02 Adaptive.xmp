@@ -1,0 +1,537 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster="SparkleStock"
+   crs:UUID="2BC1A2CAB2537E408AAB9ABE2677CC11"
+   crs:SupportsAmount2="True"
+   crs:SupportsAmount="True"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:RequiresRGBTables="False"
+   crs:CameraModelRestriction=""
+   crs:Copyright="2000px Media Inc."
+   crs:ContactInfo="https://www.sparklestock.com"
+   crs:Version="17.2"
+   crs:CompatibleVersion="251854848"
+   crs:ProcessVersion="15.4"
+   crs:Contrast2012="0"
+   crs:Highlights2012="-25"
+   crs:Shadows2012="25"
+   crs:Whites2012="-10"
+   crs:Blacks2012="0"
+   crs:Texture="0"
+   crs:Clarity2012="0"
+   crs:Dehaze="0"
+   crs:Vibrance="0"
+   crs:Saturation="0"
+   crs:GrainAmount="5"
+   crs:GrainSize="20"
+   crs:GrainFrequency="0"
+   crs:PostCropVignetteAmount="-5"
+   crs:PostCropVignetteMidpoint="90"
+   crs:PostCropVignetteFeather="75"
+   crs:PostCropVignetteRoundness="80"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:OverrideLookVignette="True"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Chill 02 Adaptive</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Cine Style (Adaptive)</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:LensBlur
+    crs:Version="1"
+    crs:Active="false"
+    crs:ImageOrientation="0"
+    crs:FocalRange="0 0 100 100"
+    crs:BlurAmount="50"
+    crs:BokehShape="0"
+    crs:BokehShapeDetail="0"
+    crs:HighlightsThreshold="50"
+    crs:HighlightsBoost="50"
+    crs:CatEyeAmount="0"
+    crs:CatEyeScale="100"
+    crs:BokehAspect="0"
+    crs:BokehRotation="0"
+    crs:SphericalAberration="0"/>
+   <crs:MaskGroupBasedCorrections>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="true"
+       crs:CorrectionName="Background Highlights (SparkleStock)"
+       crs:CorrectionSyncID="62068126BDD20F4E93BC1B0974618DEC"
+       crs:LocalExposure="0"
+       crs:LocalHue="0"
+       crs:LocalSaturation="0.5"
+       crs:LocalContrast="0"
+       crs:LocalClarity="0"
+       crs:LocalSharpness="0.24"
+       crs:LocalBrightness="0"
+       crs:LocalToningHue="0"
+       crs:LocalToningSaturation="0"
+       crs:LocalExposure2012="0"
+       crs:LocalContrast2012="0"
+       crs:LocalHighlights2012="0"
+       crs:LocalShadows2012="0"
+       crs:LocalWhites2012="0"
+       crs:LocalBlacks2012="0"
+       crs:LocalClarity2012="-0.25"
+       crs:LocalDehaze="-0.5"
+       crs:LocalLuminanceNoise="0"
+       crs:LocalMoire="0"
+       crs:LocalDefringe="0"
+       crs:LocalTemperature="0"
+       crs:LocalTint="0"
+       crs:LocalTexture="0"
+       crs:LocalGrain="0"
+       crs:LocalCorrectedDepth="0"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/RangeMask"
+          crs:MaskActive="true"
+          crs:MaskName="Whites"
+          crs:MaskBlendMode="0"
+          crs:MaskInverted="false"
+          crs:MaskSyncID="4F95BFE150EF0D4D88C6F1631B2CE51C"
+          crs:MaskValue="1">
+         <crs:CorrectionRangeMask
+          crs:Version="3"
+          crs:Type="2"
+          crs:Invert="false"
+          crs:SampleType="0"
+          crs:LumRange="0.498792 0.900000 1.000000 1.000000"
+          crs:LuminanceDepthSampleInfo="0 0.199413 0.353516"/>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Subject"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="DAAE7B5F4BC03743BF8C2E332E59E553"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="1"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="false"
+       crs:CorrectionName="Skin (SparkleStock)"
+       crs:CorrectionSyncID="A01F1393C9D4A044BDF09077A00579D2"
+       crs:LocalSaturation="0.16"
+       crs:LocalToningHue="42"
+       crs:LocalToningSaturation="0.16"
+       crs:LocalContrast2012="-1"
+       crs:LocalHighlights2012="0"
+       crs:LocalShadows2012="0"
+       crs:LocalWhites2012="0"
+       crs:LocalClarity2012="-0.25"
+       crs:LocalDehaze="0"
+       crs:LocalTexture="0"
+       crs:LocalGrain="0.02"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Facial Skin"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="1BD9BBBD1F1F8A489358D5F86641DF99"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="2"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Body Skin"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="0B1BB005916C5E4C8364CC9A00C0B13A"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="4"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="true"
+       crs:CorrectionName="Background (SparkleStock)"
+       crs:CorrectionSyncID="5BF86537F4C4A544BE0498403C49F984"
+       crs:LocalExposure="0"
+       crs:LocalHue="0"
+       crs:LocalSaturation="0"
+       crs:LocalContrast="0"
+       crs:LocalClarity="0"
+       crs:LocalSharpness="0"
+       crs:LocalBrightness="0"
+       crs:LocalToningHue="0"
+       crs:LocalToningSaturation="0"
+       crs:LocalExposure2012="0"
+       crs:LocalContrast2012="0"
+       crs:LocalHighlights2012="0"
+       crs:LocalShadows2012="0"
+       crs:LocalWhites2012="0"
+       crs:LocalBlacks2012="0"
+       crs:LocalClarity2012="-0.25"
+       crs:LocalDehaze="-0.11"
+       crs:LocalLuminanceNoise="0"
+       crs:LocalMoire="0"
+       crs:LocalDefringe="0"
+       crs:LocalTemperature="0"
+       crs:LocalTint="0"
+       crs:LocalTexture="0.25"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:MainCurve>
+       <rdf:Seq>
+        <rdf:li>0,0</rdf:li>
+        <rdf:li>255,240</rdf:li>
+       </rdf:Seq>
+      </crs:MainCurve>
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Background"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="844065FC6D3DBB46B0D4354E64C45437"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="0"
+         crs:MaskSubCategoryID="22"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="true"
+       crs:CorrectionName="Sky (SparkleStock)"
+       crs:CorrectionSyncID="905D78C746340E4182A9E38296E52A08"
+       crs:LocalExposure="0"
+       crs:LocalHue="0"
+       crs:LocalSaturation="0"
+       crs:LocalContrast="0"
+       crs:LocalClarity="0"
+       crs:LocalSharpness="0"
+       crs:LocalBrightness="0"
+       crs:LocalToningHue="0"
+       crs:LocalToningSaturation="0"
+       crs:LocalExposure2012="0"
+       crs:LocalContrast2012="0"
+       crs:LocalHighlights2012="0"
+       crs:LocalShadows2012="0"
+       crs:LocalWhites2012="0"
+       crs:LocalBlacks2012="0"
+       crs:LocalClarity2012="0"
+       crs:LocalDehaze="0.1"
+       crs:LocalLuminanceNoise="0"
+       crs:LocalMoire="0"
+       crs:LocalDefringe="0"
+       crs:LocalTemperature="0"
+       crs:LocalTint="0"
+       crs:LocalTexture="0"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Sky"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="76F48894FE079F4DB9D8F931622F8084"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="2"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="true"
+       crs:CorrectionName="Subject (SparkleStock)"
+       crs:CorrectionSyncID="2053E10F6A71584B87521DC70DAB7DB4"
+       crs:LocalExposure="0"
+       crs:LocalHue="0"
+       crs:LocalSaturation="0"
+       crs:LocalContrast="0"
+       crs:LocalClarity="0"
+       crs:LocalSharpness="0"
+       crs:LocalBrightness="0"
+       crs:LocalToningHue="0"
+       crs:LocalToningSaturation="0"
+       crs:LocalExposure2012="0"
+       crs:LocalContrast2012="0"
+       crs:LocalHighlights2012="0"
+       crs:LocalShadows2012="0"
+       crs:LocalWhites2012="0"
+       crs:LocalBlacks2012="0"
+       crs:LocalClarity2012="0.2"
+       crs:LocalDehaze="0.1"
+       crs:LocalLuminanceNoise="0"
+       crs:LocalMoire="0"
+       crs:LocalDefringe="0"
+       crs:LocalTemperature="0"
+       crs:LocalTint="0"
+       crs:LocalTexture="0.2"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Subject"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="CC64026B581EC846943F1FE1E9E9E41E"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="1"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Face Skin"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="870F2836E2BA204D85575BA9DB77F7C1"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="2"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Body Skin"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="B7B92B26F9552A4AB7D6C30BA6312DB7"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="4"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Lips"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="85FA62B8165EF0479E3C1E338A259740"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="6"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="true"
+       crs:CorrectionName="Adjustments (SparkleStock)"
+       crs:CorrectionSyncID="DA183857A201C345A4949E1550B5E348"
+       crs:LocalSaturation="0"
+       crs:LocalWhites2012="0"
+       crs:LocalBlacks2012="0"
+       crs:LocalClarity2012="0"
+       crs:LocalDehaze="0"
+       crs:LocalTexture="0"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Face Skin"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="true"
+         crs:MaskSyncID="E3702CB26B0EAB478F94A756BC8DCB1B"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="2"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Body Skin"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="F8F10FDECA3A214BB38BD279DD07A2AB"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="4"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Eyebrows"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="4B23654F58F8604B947EA383731D2AFB"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="9"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Eye Sclera"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="39696203449A06489755494B04170D37"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="8"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Iris and Pupil"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="9701831C3D65B84D94278C69C80B1D46"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="3"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Lips"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="EFC2CE87E44E2F44B770CEB1067E4851"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="6"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="AI-Detected Hair"
+         crs:MaskBlendMode="1"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="FA1A82686B62E54D99A44EEE7F8A2F7B"
+         crs:MaskValue="0"
+         crs:MaskVersion="1"
+         crs:MaskSubType="3"
+         crs:MaskSubCategoryID="5"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:MaskGroupBasedCorrections>
+   <crs:Look>
+    <rdf:Description
+     crs:Name="Chill 02 - SparkleStock"
+     crs:Amount="1"
+     crs:Cluster="SparkleStock"
+     crs:UUID="0596577623641C4BA066843988BDD6A3"
+     crs:Copyright="2000px Media Inc."
+     crs:ContactInfo="https://www.sparklestock.com"
+     crs:Stubbed="true">
+    <crs:Group>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Cine Style</rdf:li>
+     </rdf:Alt>
+    </crs:Group>
+    </rdf:Description>
+   </crs:Look>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
